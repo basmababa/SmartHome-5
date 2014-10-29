@@ -1,0 +1,33 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw600dp devices (e.g. 7" tablets) here.
+    -->
+    <string name="textStyleButtonBottom">bold</string>
+    <dimen name="marginAll">10dp</dimen>
+    <dimen name="textTitleSize">30sp</dimen>
+    <dimen name="marginTopAllButton">5dp</dimen>
+    <dimen name="textLabelSize">16sp</dimen>
+    <dimen name="widthButton">120dp</dimen>
+    <dimen name="heightButton">68dp</dimen>
+    <dimen name="marginTop">9dp</dimen>
+    <dimen name="heightBottom">75dp</dimen>  
+    <dimen name="marginTopModeButton">25dp</dimen>
+    <dimen name="textModeButtonSize">20sp</dimen>
+	<bool name="isTablet">true</bool>
+	
+	<dimen name="marginLeftAlarm">10dp</dimen>
+    <dimen name="marginRightAlarm">10dp</dimen>
+    
+    <!--Setting Alarm Page  -->
+    <dimen name="textClockAlarmWidth">200dp</dimen>
+    <dimen name="textClockAlarmSize">30sp</dimen>
+    <dimen name="buttonAlarmWidth">100dp</dimen>
+    <dimen name="textAlarmSettingSize">30sp</dimen>
+    <dimen name="textTimeAlarmSize">16sp</dimen>
+    <!--List Device Page  -->
+    <dimen name="ListDeviceMarginLeft">10dp</dimen>
+    <dimen name="textFontSettingSize">25sp</dimen>
+    <dimen name="textSettingSize">200dp</dimen>
+</resources>

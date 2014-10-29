@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="@string/pref_modealarm" >
+    	<CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOA2.1"
+            android:title="@string/satu">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOA2.2"
+            android:title="@string/dua">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOA2.3"
+            android:title="@string/tiga">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOA2.4"
+            android:title="@string/empat">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOA2.5"
+            android:title="@string/lima">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOA2.6"
+            android:title="@string/enam">
+        </CheckBoxPreference>
+      <!--   <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOA2.7"
+            android:title="@string/tujuh">
+        </CheckBoxPreference> -->
+        <!-- <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOA8"
+            android:title="@string/delapan">
+        </CheckBoxPreference> -->
+    </PreferenceCategory>
+</PreferenceScreen>

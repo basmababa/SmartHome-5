@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="@string/pref_modesleep" >
+    	<CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOS1"
+            android:title="@string/satu">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOS2"
+            android:title="@string/dua">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOS3"
+            android:title="@string/tiga">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOS4"
+            android:title="@string/empat">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOS5"
+            android:title="@string/lima">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOS6"
+            android:title="@string/enam">
+        </CheckBoxPreference>
+       <!--  <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOS7"
+            android:title="@string/tujuh">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOS8"
+            android:title="@string/delapan">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOS9"
+            android:title="@string/sembilan">
+        </CheckBoxPreference> -->
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- <item
+        android:id="@+id/disconnect"
+        android:showAsAction="never"
+        android:title="@string/disconnect"/> -->
+    <item
+        android:id="@+id/status"
+        android:showAsAction="never"
+        android:title="@string/status"/>
+    <item
+        android:id="@+id/settingMode"
+        android:showAsAction="never"
+        android:title="@string/setting_mode"/>
+    <item
+        android:id="@+id/settingAlarm"
+        android:showAsAction="never"
+        android:title="@string/setting_alarm"/>
+    <!-- <item
+        android:id="@+id/settingAlarm1"
+        android:showAsAction="never"
+        android:title="@string/setting_alarm1"/>
+    <item
+        android:id="@+id/settingAlarm2"
+        android:showAsAction="never"
+        android:title="@string/setting_alarm2"/> -->
+    <item
+        android:id="@+id/settingTimer"
+        android:showAsAction="never"
+        android:title="@string/setting_timer"/>
+    <item
+        android:id="@+id/settingTimeRTC"
+        android:showAsAction="never"
+        android:title="@string/setting_timeRTC"/>
+</menu>

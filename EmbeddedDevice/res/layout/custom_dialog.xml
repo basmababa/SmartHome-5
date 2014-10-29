@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/alarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF" />
+    
+    <TextView
+        android:id="@+id/timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF" />
+    
+    <TextView
+        android:id="@+id/rtc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF" />
+    
+   <!--  <TextView
+        android:id="@+id/text5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF" />
+    
+    <TextView
+        android:id="@+id/text6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF" />
+    
+    <TextView
+        android:id="@+id/text7"
+        android:autoLink="web"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF" /> -->
+    
+    <!-- <Button
+         android:id="@+id/lihatFoto"
+         android:layout_width="100dp"
+         android:layout_height="wrap_content"
+         android:layout_marginRight="5dp"
+         android:layout_marginTop="5dp"
+         android:text="Lihat Foto" />
+    
+    <Button
+        android:id="@+id/getDirections"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text=" Get Directions "
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"/>
+    
+     <Button
+        android:id="@+id/dialogButtonOK"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text=" Ok "
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"/>  -->   
+</LinearLayout>

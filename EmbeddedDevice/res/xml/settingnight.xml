@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >  
+ 	<PreferenceCategory android:title="@string/pref_modenight" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefON1"
+            android:title="@string/satu">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefON2"
+            android:title="@string/dua">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefON3"
+            android:title="@string/tiga">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefON4"
+            android:title="@string/empat">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefON5"
+            android:title="@string/lima">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefON6"
+            android:title="@string/enam">
+        </CheckBoxPreference>
+        <!-- <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOL7"
+            android:title="@string/tujuh">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOL8"
+            android:title="@string/delapan">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefOL9"
+            android:title="@string/sembilan">
+        </CheckBoxPreference> -->
+ 	</PreferenceCategory>
+</PreferenceScreen>
